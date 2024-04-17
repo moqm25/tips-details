@@ -1,7 +1,7 @@
 {
 	"name": "app2",
 	"version": "0.1.0",
-	"homepage": "https://moqm25.github.io/tips-details",
+	"homepage": "https://moqm25.github.io/tips-details/",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
