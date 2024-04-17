@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moqm25/tips-details/static/css/main.8e45d303.css",
+    "main.js": "/moqm25/tips-details/static/js/main.a44f4013.js",
+    "static/js/453.64105b0e.chunk.js": "/moqm25/tips-details/static/js/453.64105b0e.chunk.js",
+    "static/media/tips.csv": "/moqm25/tips-details/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/moqm25/tips-details/index.html",
+    "main.8e45d303.css.map": "/moqm25/tips-details/static/css/main.8e45d303.css.map",
+    "main.a44f4013.js.map": "/moqm25/tips-details/static/js/main.a44f4013.js.map",
+    "453.64105b0e.chunk.js.map": "/moqm25/tips-details/static/js/453.64105b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e45d303.css",
+    "static/js/main.a44f4013.js"
+  ]
+}
